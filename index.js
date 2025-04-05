@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching rainyshub.site","Watching rainyshub.site","Watching rainyshub.site","Watching rainyshub.site","Watching rainyshub.site"];
+const statusMessages = ["foulz.xyz",".gg/optimize","guns.lol/foulz","foulz.xyz",".gg/optimize"];
 
 
 let currentIndex = 0;
