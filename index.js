@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["zynware.xyz",".gg/optimize","guns.lol/foulz","zynware.xyz",".gg/optimize"];
+const statusMessages = [".gg/rbw5","getaxiom.xyz","axiommedia.live","foulz.xyz","soulhub.vip"];
 
 
 let currentIndex = 0;
